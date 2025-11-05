@@ -94,6 +94,17 @@ what I have worked on myself :
 
 **Skills Gained:** Cloud concepts, Azure services, data storage & processing, implementing real-world cloud solutions.
 
+
+### ☁️ Week 4 – Azure Virtual Machine Example
+
+<p align="center">
+  <img src="https://github.com/dominika-uk/Data-Technician_BootCamp/raw/main/Azure.png" alt="Azure VM Example" />
+</p>
+
+**Azure Virtual Machine – Small Business Example**  
+This configuration shows a single Windows A2 VM (2 vCPU, 3.5 GB RAM, 135 GB temporary storage) in UK South, running 730 hours per month. Estimated monthly cost: ~$144.54. Perfect for small business workloads and testing purposes.
+
+
 </details>
 
 <details>
@@ -109,6 +120,14 @@ what I have worked on myself :
 - Analysed **student performance** and **GDP datasets** to find trends and handle missing values.
 
 **Skills Gained:** Python programming, data cleaning, exploratory data analysis, applying logical operations for insights.
+
+<p align="center">
+  <img src="https://github.com/dominika-uk/Data-Technician_BootCamp/raw/main/Python.png" alt="Python Example" />
+</p>
+
+**Python & Pandas Example**  
+This screenshot illustrates working with CSV data in Python using Pandas, including loading data, exploring datasets, and performing basic manipulations and aggregations.
+
 
 </details>
 
