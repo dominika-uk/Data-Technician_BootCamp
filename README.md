@@ -28,6 +28,11 @@ This repository contains notes and exercises from the Data Technician Bootcamp c
 
 **Skills Gained:** Data cleaning, summarising, basic analysis, Excel formulas.
 
+**Example of my work  :
+
+!(Excel1.jpg)
+
+
 </details>
 
 <details>
