@@ -70,6 +70,12 @@ Example of my work :
 
 **Skills Gained:** Writing SQL queries, joining tables, extracting actionable information from datasets.
 
+what I have worked on myself : 
+
+![SQL Example](https://github.com/dominika-uk/Data-Technician_BootCamp/raw/main/SQL.png)
+
+
+
 </details>
 
 <details>
