@@ -30,7 +30,8 @@ This repository contains notes and exercises from the Data Technician Bootcamp c
 
 **Example of my work  :
 
-!(Excel1.jpg)
+![Excel Example](https://github.com/dominika-uk/Data-Technician_BootCamp/raw/main/Excel1.jpg)
+
 
 
 </details>
