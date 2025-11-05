@@ -56,6 +56,38 @@ This repository contains notes and exercises from the Data Technician Bootcamp c
 - Lab 9: Create Dashboard
 
 **Data Analysis:**
-
 - Spotify trends
 - NHS health dataset analysis
+
+## Week 3 – SQL
+
+**Key Concepts:** Primary & Foreign Keys, Relationships
+
+**JOIN Types Example:**
+
+```sql
+INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN, CROSS JOIN, SELF JOIN
+
+Tools: MySQL, SQL Workbench, VS Code
+Skills: querying, joining tables, extracting insights
+
+
+---
+
+## Week 4 – Cloud & Azure
+
+**Cloud Concepts:** IaaS, PaaS, SaaS, Public/Private/Hybrid/Community clouds
+
+**Providers:** AWS, Azure, GCP, IBM, Oracle
+
+**Azure Labs:**
+
+- Lab 3: Relational Data
+- Lab 4: Non-Relational Data
+- Lab 5: Data Analytics
+
+**Scenario: Paws & Whiskers**
+
+- Storage: Azure Blob Storage, Azure SQL Database
+- Analysis: Azure Machine Learning, Synapse Analytics
+- Visualisation: Power BI
