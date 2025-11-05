@@ -1,17 +1,20 @@
-# 📚 Data Technician Bootcamp – Weeks 1 to 5
+<h1 align="center">🚀 Data Technician Bootcamp – Learning Journey</h1>
+
+<p align="center">
+Hi! My name is <strong>Dominika Adrianna Ochecka</strong>.<br>
+This repository contains my **notes, exercises, and code examples** from each week to showcase the development of my analytical and programming skills. 💡</strong>.
+</p>
+
+During the course, I gained hands-on experience in several key areas:
+
+- 📊 **Excel** – data analysis, Pivot Tables, SUM, AVERAGE, SWITCH functions, and data visualization  
+- 📈 **Tableau & Power BI** – building dashboards, interactive reports, and maps  
+- 🗄️ **SQL** – writing queries, joining tables, and exploring real-world databases  
+- ☁️ **Cloud & Azure** – understanding IaaS, PaaS, SaaS, performing data analysis in Azure, and working on practical business scenarios  
+- 🐍 **Python & Pandas** 
 
 
-Hi! My name is **Dominika Adrianna Ochecka**.  
-This repository documents my learning journey and projects from the **Data Technician Bootcamp**.  
 
-During the course, I gained hands-on experience in:  
-- **Excel** – data analysis, Pivot Tables, SUM, AVERAGE, SWITCH functions, and data visualization,  
-- **Tableau & Power BI** – building dashboards, interactive reports, and maps,  
-- **SQL** – writing queries, joining tables, exploring real-world databases,  
-- **Cloud & Azure** – understanding IaaS, PaaS, SaaS, data analysis in Azure, and practical business scenarios,  
-- **Python & Pandas** – loading and cleaning data, data manipulation, grouping, pivot tables, and result visualization.  
-
-This repository contains my notes, exercises, and code examples from each week to showcase the development of my analytical and programming skills.
 
 
 ---
