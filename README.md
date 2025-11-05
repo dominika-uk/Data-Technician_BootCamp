@@ -1,17 +1,18 @@
 # 📚 Data Technician Bootcamp – Weeks 1 to 5
 
-This repository contains notes and exercises from the Data Technician Bootcamp covering **Excel, Tableau, Power BI, SQL, Cloud & Azure, Python, and Pandas**.
 
----
+Hi! My name is **Dominika Adrianna Ochecka**.  
+This repository documents my learning journey and projects from the **Data Technician Bootcamp**.  
 
-## Table of Contents
+During the course, I gained hands-on experience in:  
+- **Excel** – data analysis, Pivot Tables, SUM, AVERAGE, SWITCH functions, and data visualization,  
+- **Tableau & Power BI** – building dashboards, interactive reports, and maps,  
+- **SQL** – writing queries, joining tables, exploring real-world databases,  
+- **Cloud & Azure** – understanding IaaS, PaaS, SaaS, data analysis in Azure, and practical business scenarios,  
+- **Python & Pandas** – loading and cleaning data, data manipulation, grouping, pivot tables, and result visualization.  
 
-- [📊 Week 1 – Excel](#-week-1---excel)  
-- [📈 Week 2 – Tableau & Power BI](#-week-2---tableau--power-bi)  
-- [🗄️ Week 3 – SQL](#️-week-3---sql)  
-- [☁️ Week 4 – Cloud & Azure](#-week-4---cloud--azure)  
-- [🐍 Week 5 – Python & Pandas](#-week-5---python--pandas)  
-- [📫 Contact](#-contact)
+This repository contains my notes, exercises, and code examples from each week to showcase the development of my analytical and programming skills.
+
 
 ---
 
@@ -28,6 +29,10 @@ This repository contains notes and exercises from the Data Technician Bootcamp c
 
 **Skills Gained:** Data cleaning, summarising, basic analysis, Excel formulas.
 
+
+
+
+----
 **Example of my work  :
 
 ![Excel Example](https://github.com/dominika-uk/Data-Technician_BootCamp/raw/main/Excel1.jpg)
