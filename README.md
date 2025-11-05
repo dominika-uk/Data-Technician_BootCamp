@@ -41,7 +41,6 @@ This repository contains notes and exercises from the Data Technician Bootcamp c
 - 
 ---
 
-```markdown
 ## Week 2 – Tableau & Power BI
 
 **Tableau:**
