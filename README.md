@@ -1,9 +1,13 @@
 <h1 align="center">🚀 Data Technician Bootcamp – Learning Journey</h1>
 
 <p align="center">
-Hi! My name is <strong>Dominika Adrianna Ochecka</strong>.<br>
-This repository contains my **notes, exercises, and code examples** from each week to showcase the development of my analytical and programming skills. 💡</strong>.
-</p>
+# 👋 Dominika Adrianna Ochecka
+
+Welcome to my **Data Technician Bootcamp portfolio**!  
+
+This repository documents my **first journey through a hands-on IT Bootcamp**, where I explored new tools, techniques, and real-world data projects for the very first time. Here you'll find my **notes, exercises, and code examples** from each week, showcasing the development of my analytical and programming skills.  
+
+
 
 During the course, I gained hands-on experience in several key areas:
 
