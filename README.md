@@ -6,88 +6,94 @@ This repository contains notes and exercises from the Data Technician Bootcamp c
 
 ## Table of Contents
 
-- [Week 1 – Excel](#week-1---excel)  
-- [Week 2 – Tableau & Power BI](#week-2---tableau--power-bi)  
-- [Week 3 – SQL](#week-3---sql)  
-- [Week 4 – Cloud & Azure](#week-4---cloud--azure)  
-- [Week 5 – Python & Pandas](#week-5---python--pandas)  
-- [Contact](#contact)
+- [📊 Week 1 – Excel](#-week-1---excel)  
+- [📈 Week 2 – Tableau & Power BI](#-week-2---tableau--power-bi)  
+- [🗄️ Week 3 – SQL](#️-week-3---sql)  
+- [☁️ Week 4 – Cloud & Azure](#-week-4---cloud--azure)  
+- [🐍 Week 5 – Python & Pandas](#-week-5---python--pandas)  
+- [📫 Contact](#-contact)
 
 ---
 
-## Week 1 – Excel
+<details>
+<summary>📊 Week 1 – Excel</summary>
 
-**Key Topics:** Data protection laws, Pivot Tables, SWITCH function, charts.
+**What I Worked On:**
 
-### Laws & Regulations
+- Learned about data protection laws (DPA, GDPR, FOI, Computer Misuse Act).  
+- Practiced importing, sorting, and manipulating datasets.  
+- Used **Pivot Tables** to summarise data.  
+- Applied Excel functions like **SUM, AVERAGE, SWITCH**.  
+- Created charts for visualising sales and trends.
 
-| Law | Description | Impact |
-|-----|------------|-------|
-| Data Protection Act | UK rules for protecting personal data | Privacy, accountability |
-| GDPR | EU-wide data protection regulation | Consent, transparency |
-| Freedom of Information Act | Public access to documents | Transparency, public trust |
-| Computer Misuse Act | Protects against illegal access to computers | Cybercrime prevention |
+**Skills Gained:** Data cleaning, summarising, basic analysis, Excel formulas.
 
+</details>
 
-### Excel Exercises
+<details>
+<summary>📈 Week 2 – Tableau & Power BI</summary>
 
-- Convert dataset to a **Table**
-- Sort **Age** column largest to smallest
-- Calculate **SUM** of commission 
-- Calculate **AVERAGE** of commission 
-- Pivot Tables: summarise sales by county & product
-- Charts: visualise trends and insights
+**What I Worked On:**
 
-- 
+- Compared different **Tableau versions** and understood Tableau Public limitations.  
+- Built dashboards with bar charts and maps using EMSI datasets.  
+- Analysed **Spotify** and **Health datasets** to find trends and insights.  
+- Completed **Power BI labs**: getting data, transforming it, designing reports, and creating dashboards.
+
+**Skills Gained:** Dashboard creation, data visualisation, interactive reporting, exploratory analysis.
+
+</details>
+
+<details>
+<summary>🗄️ Week 3 – SQL</summary>
+
+**What I Worked On:**
+
+- Learned about **databases, tables, primary and foreign keys**, and relationships.  
+- Practiced using different **SQL JOIN types** to combine tables.  
+- Queried real databases (world_db) to find cities, populations, and country data.  
+- Explored how relational data is structured and extracted insights using SQL.
+
+**Skills Gained:** Writing SQL queries, joining tables, extracting actionable information from datasets.
+
+</details>
+
+<details>
+<summary>☁️ Week 4 – Cloud & Azure</summary>
+
+**What I Worked On:**
+
+- Learned about **cloud computing**: IaaS, PaaS, SaaS.  
+- Explored **public, private, hybrid, and community clouds**.  
+- Compared cloud providers: AWS, Azure, GCP, IBM, Oracle.  
+- Completed **Azure labs**: relational, non-relational data, and analytics.  
+- Analysed a business scenario ("Paws & Whiskers") to recommend Azure services for storage, analysis, and visualisation.
+
+**Skills Gained:** Cloud concepts, Azure services, data storage & processing, implementing real-world cloud solutions.
+
+</details>
+
+<details>
+<summary>🐍 Week 5 – Python & Pandas</summary>
+
+**What I Worked On:**
+
+- Practiced Python basics with loops, conditions, and logic exercises (FizzBuzz).  
+- Learned to **load, explore, and inspect CSV data** using Pandas.  
+- Applied **indexing, filtering, and slicing** to datasets.  
+- Manipulated data: added columns, renamed, and removed data.  
+- Aggregated and grouped data, created pivot tables, and exported processed data.  
+- Analysed **student performance** and **GDP datasets** to find trends and handle missing values.
+
+**Skills Gained:** Python programming, data cleaning, exploratory data analysis, applying logical operations for insights.
+
+</details>
+
 ---
 
-## Week 2 – Tableau & Power BI
+## 📫 Contact
 
-**Tableau:**
+**Dominika Adrianna Ochecka**  
+📧 Email: ochecka.work@gmail.com 
+🔗 
 
-- Compare versions and limitations of Tableau Public
-- Dashboard: bar chart (% change) + UK map
-
-**Power BI Labs:**
-
-- Lab 1: Get Data
-- Lab 2: Load Transformed Data
-- Lab 6: Design Report
-- Lab 9: Create Dashboard
-
-**Data Analysis:**
-- Spotify trends
-- NHS health dataset analysis
-
-## Week 3 – SQL
-
-**Key Concepts:** Primary & Foreign Keys, Relationships
-
-**JOIN Types Example:**
-
-```sql
-INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN, CROSS JOIN, SELF JOIN
-
-Tools: MySQL, SQL Workbench, VS Code
-Skills: querying, joining tables, extracting insights
-
-
----
-
-## Week 4 – Cloud & Azure
-
-**Cloud Concepts:** IaaS, PaaS, SaaS, Public/Private/Hybrid/Community clouds
-
-**Providers:** AWS, Azure, GCP, IBM, Oracle
-
-**Azure Labs:**
-
-- Lab 3: Relational Data
-- Lab 4: Non-Relational Data
-- Lab 5: Data Analytics
-
-**Scenario: Paws & Whiskers**
-
-- Storage: Azure Blob Storage, Azure SQL Database
-- Analysis: Azure Machine Learning, Synapse Analytics
-- Visualisation: Power BI
