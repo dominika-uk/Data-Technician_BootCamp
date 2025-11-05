@@ -15,6 +15,19 @@ During the course, I gained hands-on experience in several key areas:
 
 
 
+## 📂 Workbooks & Exercises
+
+You can find all my **workbooks** from the Data Technician Bootcamp below. Each workbook corresponds to a different week and tool. 💡
+
+
+| Week | Subject / Tool       | Link to Workbook |
+|------|---------------------|-----------------|
+| 1    | 📊 Excel             | [Download Excel Workbook](https://github.com/dominika-uk/Data-Technician_BootCamp/raw/main/Excel_workbook.docx) |
+| 2    | 📈 Tableau & Power BI | [Upload Link Pending] |
+| 3    | 🗄️ SQL              | [Download SQL Workbook](https://github.com/dominika-uk/Data-Technician_BootCamp/raw/main/SQL_workbook.docx) |
+| 4    | ☁️ Cloud & Azure     | [Download Azure Workbook](https://github.com/dominika-uk/Data-Technician_BootCamp/raw/main/Azure_workbook.docx) |
+| 5    | 🐍 Python & Pandas   | [Download Python Workbook](https://github.com/dominika-uk/Data-Technician_BootCamp/raw/main/Python_workbook.docx) |
+
 
 
 ---
