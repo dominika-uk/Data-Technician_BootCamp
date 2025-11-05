@@ -45,6 +45,9 @@ This repository contains notes and exercises from the Data Technician Bootcamp c
 - Built dashboards with bar charts and maps using EMSI datasets.  
 - Analysed **Spotify** and **Health datasets** to find trends and insights.  
 - Completed **Power BI labs**: getting data, transforming it, designing reports, and creating dashboards.
+Example of my work : 
+![Power BI Example](https://github.com/dominika-uk/Data-Technician_BootCamp/raw/main/PowerBI.jpg)
+
 
 **Skills Gained:** Dashboard creation, data visualisation, interactive reporting, exploratory analysis.
 
